@@ -16,8 +16,18 @@
 
 [6 - Added CSS style ](../../tree/87e22f9b3e3eff3668df6032a8213dac017402ea/)
 
-[7 - Empty ](../../tree//)
+[7 - Serving the files statically ](../../tree/a46a84e24c0279baef0dbbb347285898e2ce97d4/)
 
 [8 - Empty ](../../tree//)
 
 [9 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[11 - Empty ](../../tree//)
+
+[12 - Empty ](../../tree//)
+
+[13 - Empty ](../../tree//)
+
+[14 - Empty ](../../tree//)
