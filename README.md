@@ -14,7 +14,7 @@
 
 [5 - Using a helper function for navigation ](../../tree/7cbb5f61425aacf65689ee43c021247980f9ca7a/)
 
-[6 - Empty ](../../tree//)
+[6 - Added CSS style ](../../tree/87e22f9b3e3eff3668df6032a8213dac017402ea/)
 
 [7 - Empty ](../../tree//)
 
