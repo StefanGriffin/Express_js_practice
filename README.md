@@ -20,7 +20,7 @@
 
 [8 -  Dynamic Content and Pug Template Engine ](../../tree/7b560163fd69369dea1c575594d29ee37a2815e0/)
 
-[9 - Empty ](../../tree//)
+[9 - Pug Handlebars Ejs and layout with partials ](../../tree/4e41bfe14810cc44e658d7e31ad4942b8abd5f0a/)
 
 [10 - Empty ](../../tree//)
 
