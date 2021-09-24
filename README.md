@@ -24,7 +24,7 @@
 
 [10 - Added the controllers folder ](../../tree/941a0b842de987152778a4c98b1a06041186b686/)
 
-[11 - Empty ](../../tree//)
+[11 -  Added a product model ](../../tree/dc115b2055d7ca9e5a4d23dcbb676090844b7270/)
 
 [12 - Empty ](../../tree//)
 
