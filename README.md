@@ -26,7 +26,7 @@
 
 [11 -  Added a product model ](../../tree/dc115b2055d7ca9e5a4d23dcbb676090844b7270/)
 
-[12 - Empty ](../../tree//)
+[12 - Refactoring the code ](../../tree/0e70f8d7c14fd7514af1d2e54835964ad8b01d9f/)
 
 [13 - Empty ](../../tree//)
 
