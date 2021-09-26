@@ -32,20 +32,4 @@
 
 [14 - Loaded product detail data ](../../tree/5c63ba2d3712d5670bef6ce54573187d3320081e/)
 
-[15 - Empty ](../../tree//)
-
-[16 - Empty ](../../tree//)
-
-[17 - Empty ](../../tree//)
-
-[18 - Empty ](../../tree//)
-
-[19 - Empty ](../../tree//)
-
-[20 - Empty ](../../tree//)
-
-[21 - Empty ](../../tree//)
-
-[22 - Empty ](../../tree//)
-
-[23 - Empty ](../../tree//)
+[15 - Added a Cart model ](../../tree/d637004cf45b8747b13fc89ce3359c19ebb77aab/)
